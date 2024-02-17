@@ -1213,6 +1213,10 @@ img {
     line-height: 1.2;
   }
 
+  .feature-list-text {
+    font-weight: 400;
+  }
+
   /* --------Portfolio---------- */
 
   .portfolio > .container {
